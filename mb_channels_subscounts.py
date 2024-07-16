@@ -71,7 +71,7 @@ def main():
             total_count += count
         subscriber_counts[channel_id] = count
 
-    print(f'Total Subscribers of All MB channels are: {total_count + 185000}')
+    print(f'Total Subscribers of All MB channels are: {total_count + 933000}')
     
     # Write data to CSV
     output_file = '/Users/saadiaiftikhar/Documents/GitHub/vs_data/results/MB_youtube_channels.csv'
